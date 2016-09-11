@@ -41,6 +41,7 @@
         </div><!-- /.col-lg-4 -->
 
     </div><!-- /.row -->
+    <hr class="featurette-divider">
 
     <!-- Three columns of text below the carousel 2nd one -->
     <div class="row">
