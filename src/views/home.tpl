@@ -1,7 +1,10 @@
 <div widget-area="header" xmlns:http="http://www.w3.org/1999/xhtml" ></div>
 <div class="jumbotron">
-    <h1>수원 선교 교회</h1>
-    <p>수원선교교회는 1978년 수원 일대의 캠퍼스 사역을 통한 대학생복음화와 세계선교를 목표로 설립된 선교회에 그 뿌리를 두고 있습니다. 2003년 대한예수교장로회(합신교단)에 속한 교회로 새로 시작하여 현재는 대학생뿐만 아니라 지역사회를 섬기며 세계선교를 위해 헌신하는 교회로 성장하고 있습니다. 또한 영어성경공부 및 예배 통역 서비스를 통해 외국인들을 위한 사역을 감당하고 있습니다. 말씀에 기초하여 한 영혼의 구원과 치료, 전인격적 양육을 핵심가치로 삼는 아름다운 교회입니다. </p>
+    <div class="container">
+        <h1>수원 선교 교회</h1>
+        <p>수원선교교회는 1978년 수원 일대의 캠퍼스 사역을 통한 대학생복음화와 세계선교를 목표로 설립된 선교회에 그 뿌리를 두고 있습니다. 2003년 대한예수교장로회(합신교단)에 속한 교회로 새로 시작하여 현재는 대학생뿐만 아니라 지역사회를 섬기며 세계선교를 위해 헌신하는 교회로 성장하고 있습니다. 또한 영어성경공부 및 예배 통역 서비스를 통해 외국인들을 위한 사역을 감당하고 있습니다. 말씀에 기초하여 한 영혼의 구원과 치료, 전인격적 양육을 핵심가치로 삼는 아름다운 교회입니다. </p>
+    </div>
+
 </div>
 <!-- Marketing messaging and featurettes
     ================================================== -->
@@ -46,8 +49,8 @@
     <!-- Three columns of text below the carousel 2nd one -->
     <div class="row">
         <div class="col-lg-4">
-            <img class="img-circle" src="/images/davidcell.jpg" alt="Generic placeholder image" width="140" height="140">
-            <h2>로뎀셀</h2>
+            <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>비전셀</h2>
             <p>30·40대 결혼한 자매들의 모임으로 말씀의 은혜를 나누고 아내와 엄마로서의 고충을 서로 격려해 주며 함께 기도하고 성장해 가는 공동체 모임</p>
             <p>“ 복이 있는 사람 - 시냇가의 심은 나무 ”
             </p>
@@ -56,7 +59,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
             <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>마리아셀</h2>
+            <h2>실버셀</h2>
             <p>40세 이상의 자매성도의 영적인 교제와 나눔을 통해 친밀감을 고취시키며 하나님의 ...</p>
             <p>“복 있는 사람은 악인들의 꾀를 따르지 아니하며 죄인들의 길에 서지 아니하며 오만한 자들의 자리에 앉지 아니하고 오직 여호와의 율법을 주야로 묵상하는도다.”
             </p>
@@ -65,7 +68,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
             <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>다윗셀</h2>
+            <h2>다니엘셀</h2>
             <p>젊은 청년들이 함께 모여 삶 나눔과 말씀 나눔, 기도를 통해 하나님과 서로에 대한 친밀감을 세워나가는 공동체 모임</p>
             <p>“너희는 마음을 다하여 여호와를 신뢰하고 네 명철을 의지하지 말라
                 범사에 그를 인정하라 그리하면 네 길을 지도하시리라”
