@@ -53,3 +53,4 @@ tx.exe
 
 ##Coverage output
 coverage
+!/node_modules/nodebb-theme-persona/
