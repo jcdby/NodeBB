@@ -23,7 +23,7 @@ logs/
 pidfile
 
 # templates
-/public/templates
+#/public/templates
 
 /public/uploads
 /public/sounds
