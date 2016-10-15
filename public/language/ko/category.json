@@ -1,7 +1,7 @@
 {
     "category": "카테고리",
     "subcategories": "하위 카테고리",
-    "new_topic_button": "새로운 주제를 생성",
+    "new_topic_button": "글쓰기",
     "guest-login-post": "게시물을 작성하기 위해 로그인",
     "no_topics": "<strong>이 카테고리에는 작성된 주제가 없습니다.</strong><br />주제를 작성해 보세요.",
     "browsing": "이 주제를 읽고 있는 사용자",
