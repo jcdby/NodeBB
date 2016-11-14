@@ -1,9 +1,6 @@
 <div widget-area="header" xmlns:http="http://www.w3.org/1999/xhtml" ></div>
-<div class="jumbotron">
-    <div class="container">
-        <h1>수원 선교 교회</h1>
-        <p>수원선교교회는 1978년 수원 일대의 캠퍼스 사역을 통한 대학생복음화와 세계선교를 목표로 설립된 선교회에 그 뿌리를 두고 있습니다. 2003년 대한예수교장로회(합신교단)에 속한 교회로 새로 시작하여 현재는 대학생뿐만 아니라 지역사회를 섬기며 세계선교를 위해 헌신하는 교회로 성장하고 있습니다. 또한 영어성경공부 및 예배 통역 서비스를 통해 외국인들을 위한 사역을 감당하고 있습니다. 말씀에 기초하여 한 영혼의 구원과 치료, 전인격적 양육을 핵심가치로 삼는 아름다운 교회입니다. </p>
-    </div>
+<div class="container-fluid" style="padding: 0;">
+    <img src="/images/KakaoTalk_Photo_2016-11-14-20-00-53.jpeg" alt="" style="width:100%; top: -17px;position: relative;">
 
 </div>
 <!-- Marketing messaging and featurettes
