@@ -1,6 +1,6 @@
 <div widget-area="header" xmlns:http="http://www.w3.org/1999/xhtml" ></div>
-<div class="container-fluid" style="padding: 0;position: relative;left: -15px; width: 103%">
-    <img src="/images/KakaoTalk_Photo_2016-11-14-20-00-53.jpeg" alt="" style="width:100%; top: -48px;position: relative;">
+<div class="container-fluid" style="padding: 0;position: relative; width: 100%;left: -15px;">
+    <img src="/images/KakaoTalk_Photo_2016-11-14-20-00-53.jpeg" alt="" style="width: 100vw; position: relative;">
 
 </div>
 <!-- Marketing messaging and featurettes

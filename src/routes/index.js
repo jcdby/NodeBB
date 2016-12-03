@@ -48,9 +48,28 @@ function mainRoutes(app, middleware, controllers) {
 	/*
 	Introduction Page Routers
 	 */
-	app.get('/ajoucmi', function (req, res, next) {
-		res.render('ajoucmi');
+	//교회학교
+	setupPageRoute(app, '/ajoucmi', middleware, [], function (req, res, next) {
+		res.render('intros/schs/ajoucmi');
+	})
+	setupPageRoute(app, '/primary',middleware,[], function (req,res,next) {
+
 	});
+	setupPageRoute(app, '/jebs',middleware,[], function (req,res,next) {
+
+	});
+	setupPageRoute(app, '/mid-high',middleware,[], function (req,res,next) {
+
+	});
+	setupPageRoute(app, '/eng-sch',middleware,[], function (req,res,next) {
+
+	});
+
+	//intro to cells
+	setupPageRoute(app, '/daniel',middleware,[], function (req,res,next) {
+		res.render('intros/cells/daniel');
+	});
+
 }
 
 function globalModRoutes(app, middleware, controllers) {

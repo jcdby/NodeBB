@@ -45,10 +45,10 @@ module.exports =  function(app, middleware, controllers) {
 	 */
 
 
-	router.get('/ajoucmi', function (req, res, next) {
-		console.log('hello');
-		res.render('ajoucmi');
-	});
+	// router.get('/ajoucmi', function (req, res, next) {
+	// 	console.log('hello');
+	// 	res.render('ajoucmi');
+	// });
 
 };
 
