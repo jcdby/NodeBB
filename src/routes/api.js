@@ -36,5 +36,19 @@ module.exports =  function(app, middleware, controllers) {
 
 	router.post('/user/:userslug/uploadcover', middlewares.concat([middleware.authenticate, middleware.checkGlobalPrivacySettings, middleware.checkAccountPermissions]), controllers.accounts.edit.uploadCoverPicture);
 	router.post('/groups/uploadpicture', middlewares.concat([middleware.authenticate]), controllers.groups.uploadCover);
+
+
+
+
+	/*Introduction Router
+
+	 */
+
+
+	router.get('/ajoucmi', function (req, res, next) {
+		console.log('hello');
+		res.render('ajoucmi');
+	});
+
 };
 

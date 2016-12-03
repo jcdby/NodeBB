@@ -42,6 +42,15 @@ function mainRoutes(app, middleware, controllers) {
 
 	app.get('/ping', controllers.ping);
 	app.get('/sping', controllers.ping);
+
+
+
+	/*
+	Introduction Page Routers
+	 */
+	app.get('/ajoucmi', function (req, res, next) {
+		res.render('ajoucmi');
+	});
 }
 
 function globalModRoutes(app, middleware, controllers) {
