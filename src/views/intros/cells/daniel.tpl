@@ -1,5 +1,5 @@
 <!-- IMPORT intros/cells/cell-sidemenu.tpl -->
-<div class="container" style="padding: 0;position: relative;left: -15px; width: 75%;float: right;">
+<div class="container col-sm-9" style="overflow: auto">
     <h1>다니엘 셀</h1>
     <table class="table table-striped table-hover">
         <thead>
@@ -46,7 +46,12 @@
             <p>다니엘셀 성경 공부, 주일 셀 모임</p>
         </li>
     </ol>
-    <img src="/images/danielcell.jpg" alt="" width="500px">
+    <div style="width: 100%;">
+        <div style="width: 70%;margin: auto">
+            <img src="/images/danielcell.jpg" alt="" width="100%">
+        </div>
+    </div>
+
 </div>
 </div>
 

@@ -1,5 +1,5 @@
 <!-- IMPORT intros/schs/sch-sidemenu.tpl -->
-    <div class="container" style="padding: 0;position: relative;left: -15px; width: 75%;float: right;">
+    <div class="container  col-sm-9" style="overflow: auto">
         <h1>아주대 CMI</h1>
         <table class="table table-striped table-hover">
             <thead>
@@ -45,7 +45,12 @@
                 <p>1:1 성경 공부, Group Bible Study, 영어성경공부, M.T. 등</p>
             </li>
         </ol>
-        <img src="/images/ajoucmi.jpg" alt="" width="500px">
+        <div style="width: 100%">
+            <div style="width: 70%; margin: auto">
+                <img src="/images/ajoucmi.jpg" alt="" width="100%">
+            </div>
+        </div>
+
     </div>
 </div>
 

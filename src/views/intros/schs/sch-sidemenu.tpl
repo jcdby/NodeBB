@@ -1,6 +1,6 @@
 <div widget-area="header" xmlns:http="http://www.w3.org/1999/xhtml" ></div>
 <div class="container">
-    <aside  style="float: left; width: 14%; text-align: center">
+    <aside class=" col-sm-3" style=" text-align: center">
         <div class="list-group">
             <a href="/primary" class="list-group-item ">
                 유초등부
