@@ -2,16 +2,20 @@
  color: #3298e1;
 }
 
+#header-menu {
+ box-shadow: 0px 2px 2px #3298e1;
+}
+
 @media (max-width: 767px) {
  #content {
   position: relative;
-  top:52px;
+  top:58px;
  }
 }
 
 @media  (min-width: 768px) {
  #content {
   position: relative;
-  top: 112px;
+  top: 118px;
  }
 }
