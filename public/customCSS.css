@@ -1,3 +1,17 @@
 #menu  a {
  color: #3298e1;
 }
+
+@media (max-width: 767px) {
+ #content {
+  position: relative;
+  top:52px;
+ }
+}
+
+@media  (min-width: 768px) {
+ #content {
+  position: relative;
+  top: 112px;
+ }
+}
