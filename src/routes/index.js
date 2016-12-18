@@ -70,6 +70,12 @@ function mainRoutes(app, middleware, controllers) {
 		res.render('intros/cells/daniel');
 	});
 
+
+	//intro to church
+	setupPageRoute(app, '/churchIntro', middleware,[], function (req, res, next) {
+		res.render('intros/church/intro-church');
+	})
+
 }
 
 function globalModRoutes(app, middleware, controllers) {

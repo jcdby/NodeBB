@@ -2,6 +2,11 @@
  color: #3298e1;
 }
 
+.content-wrapper {
+ width:80%;
+ margin:auto;
+}
+
 #header-menu {
  box-shadow: 0px 2px 2px #3298e1;
 }
@@ -18,4 +23,14 @@
   position: relative;
   top: 118px;
  }
+}
+
+.history {
+ background-color: #dcdaee;
+ border: dotted 1px black;
+ margin:10px;
+ text-align: left;
+}
+.historyPhase {
+ margin:25px;
 }
