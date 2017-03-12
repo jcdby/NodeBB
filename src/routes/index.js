@@ -52,14 +52,15 @@ function mainRoutes(app, middleware, controllers) {
 	setupPageRoute(app, '/ajoucmi', middleware, [], function (req, res, next) {
 		res.render('intros/schs/ajoucmi');
 	})
-	setupPageRoute(app, '/primary',middleware,[], function (req,res,next) {
+	setupPageRoute(app, '/children',middleware,[], function (req,res,next) {
+		res.render('intros/schs/children')
 
 	});
 	setupPageRoute(app, '/jebs',middleware,[], function (req,res,next) {
-
+		res.render('intros/schs/jebs')
 	});
-	setupPageRoute(app, '/mid-high',middleware,[], function (req,res,next) {
-
+	setupPageRoute(app, '/middle',middleware,[], function (req,res,next) {
+		res.render('intros/schs/middle')
 	});
 	setupPageRoute(app, '/eng-sch',middleware,[], function (req,res,next) {
 
@@ -68,6 +69,27 @@ function mainRoutes(app, middleware, controllers) {
 	//intro to cells
 	setupPageRoute(app, '/daniel',middleware,[], function (req,res,next) {
 		res.render('intros/cells/daniel');
+	});
+	setupPageRoute(app, '/broom',middleware,[], function (req,res,next) {
+		res.render('intros/cells/broom');
+	});
+	setupPageRoute(app, '/david',middleware,[], function (req,res,next) {
+		res.render('intros/cells/david');
+	});
+	setupPageRoute(app, '/green',middleware,[], function (req,res,next) {
+		res.render('intros/cells/green');
+	});
+	setupPageRoute(app, '/joseph',middleware,[], function (req,res,next) {
+		res.render('intros/cells/joseph');
+	});
+	setupPageRoute(app, '/maria',middleware,[], function (req,res,next) {
+		res.render('intros/cells/maria');
+	});
+	setupPageRoute(app, '/silver',middleware,[], function (req,res,next) {
+		res.render('intros/cells/silver');
+	});
+	setupPageRoute(app, '/vision',middleware,[], function (req,res,next) {
+		res.render('intros/cells/vision');
 	});
 
 

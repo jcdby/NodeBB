@@ -14,11 +14,17 @@
             <a href="/daniel" class="list-group-item">
                 다니엘셀
             </a>
-            <a href="/rothem" class="list-group-item">
+            <a href="/broom" class="list-group-item">
                 로뎀셀
             </a>
             <a href="/david" class="list-group-item">
                 다윗셀
+            </a>
+            <a href="/green" class="list-group-item">
+                푸른초장셀
+            </a>
+            <a href="/joseph" class="list-group-item">
+                요셉셀
             </a>
         </div>
     </aside>

@@ -2,13 +2,13 @@
 <div class="container">
     <aside class=" col-sm-3" style=" text-align: center">
         <div class="list-group">
-            <a href="/primary" class="list-group-item ">
+            <a href="/children" class="list-group-item ">
                 유초등부
             </a>
             <a href="/jebs" class="list-group-item">
                 JEBS
             </a>
-            <a href="/mid-high" class="list-group-item">
+            <a href="/middle" class="list-group-item">
                 중고등부
             </a>
             <a href="/ajoucmi" class="list-group-item">
