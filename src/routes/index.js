@@ -97,6 +97,18 @@ function mainRoutes(app, middleware, controllers) {
 	setupPageRoute(app, '/churchIntro', middleware,[], function (req, res, next) {
 		res.render('intros/church/intro-church');
 	})
+	setupPageRoute(app, '/roads', middleware,[], function (req, res, next) {
+		res.render('intros/church/roads');
+	})
+	setupPageRoute(app, '/churchVision', middleware,[], function (req, res, next) {
+		res.render('intros/church/churchVision');
+	})
+	setupPageRoute(app, '/servants', middleware,[], function (req, res, next) {
+		res.render('intros/church/servants');
+	})
+	setupPageRoute(app, '/serviceTime', middleware,[], function (req, res, next) {
+		res.render('intros/church/serviceTime');
+	})
 
 }
 
