@@ -1,4 +1,4 @@
-daniel.tpl<!-- IMPORT intros/cells/cell-sidemenu.tpl -->
+<!-- IMPORT intros/cells/cell-sidemenu.tpl -->
 <div class="container col-sm-9" style="overflow: auto">
     <h1>실버 셀</h1>
     <table class="table table-striped table-hover">
